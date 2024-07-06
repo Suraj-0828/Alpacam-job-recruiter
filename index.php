@@ -382,7 +382,7 @@
                 </div>
                 <div class="project-block-one">
                     <div class="inner-box">
-                        <figure class="image-box"><img src="assets/images/service/s7.jpgg" alt=""></figure>
+                        <figure class="image-box"><img src="assets/images/service/s7.jpg" alt=""></figure>
                         <div class="link">
                             <a href="assets/images/service/s7.jpg" class="lightbox-image" data-fancybox="gallery"><i class="flaticon-plus"></i></a>
                         </div>
