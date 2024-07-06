@@ -286,13 +286,66 @@
                             </figure>
                             <div class="lower-content">
                                 <h3><a href="contact-us.php">Legal Recruitment</a></h3>
-                                <p>Alpacam connects adept legal professionals with reputable firms for comprehensive legal solutions.</p>
+                                <p> recruitment for higher positions Alpacam connects adept legal professionals with reputable firms for comprehensive legal solutions.</p>
                                 <div class="link"><a href="contact-us.php">Read More</a></div>
                                 <div class="light-icon"><i class="flaticon-policy"></i></div>
                             </div>
                         </div>
                     </div>
                 </div>
+                <div class="col-lg-4 col-md-6 col-sm-12 service-block">
+                    <div class="service-block-one wow fadeInUp animated animated" data-wow-delay="600ms" data-wow-duration="1500ms">
+                        <div class="inner-box">
+                            <figure class="image-box">
+                                <img src="assets/images/service/c7.jpg" alt="">
+                                <span class="category">President</span>
+                                <i class="flaticon-policy"></i>
+                            </figure>
+                            <div class="lower-content">
+                                <h3><a href="contact-us.php">President
+                                Recruitment</a></h3>
+                                <p>Recruitment for higher positions As President, drives Alpacam's vision and growth, leveraging deep industry insights.</p>
+                                <div class="link"><a href="contact-us.php">Read More</a></div>
+                                <div class="light-icon"><i class="flaticon-policy"></i></div>
+                              </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12 service-block">
+                    <div class="service-block-one wow fadeInUp animated animated" data-wow-delay="600ms" data-wow-duration="1500ms">
+                        <div class="inner-box">
+                            <figure class="image-box">
+                                <img src="assets/images/service/c7.jpg" alt="">
+                                <span class="category">Coo</span>
+                                <i class="flaticon-policy"></i>
+                            </figure>
+                            <div class="lower-content">
+                                <h3><a href="contact-us.php">Coo Recruitment</a></h3>
+                                <p>Recruitment for higher positions As The COO, oversees daily operations, ensuring efficiency and quality at Alpacam.</p>
+                                <div class="link"><a href="contact-us.php">Read More</a></div>
+                                <div class="light-icon"><i class="flaticon-policy"></i></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12 service-block">
+                    <div class="service-block-one wow fadeInUp animated animated" data-wow-delay="600ms" data-wow-duration="1500ms">
+                        <div class="inner-box">
+                            <figure class="image-box">
+                                <img src="assets/images/service/c7.jpg" alt="">
+                                <span class="category">Ceo</span>
+                                <i class="flaticon-policy"></i>
+                            </figure>
+                            <div class="lower-content">
+                                <h3><a href="contact-us.php">Ceo Recruitment</a></h3>
+                                <p>Recruitment for higher positions As Our CEO, leads Alpacam, ensuring excellence in recruitment solutions.</p>
+                                <div class="link"><a href="contact-us.php">Read More</a></div>
+                                <div class="light-icon"><i class="flaticon-policy"></i></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
             </div>
         </div>
     </section>
@@ -515,7 +568,7 @@
                     <h2>Hire Your Next Candidate On Alpacam</h2>
                 </div>
                 <div class="btn-box pull-right">
-                    <a href="contact.php" class="theme-btn-one">Discover More</a>
+                    <a href="contact-us.php" class="theme-btn-one">Discover More</a>
                 </div>
             </div>
         </div>
@@ -526,7 +579,7 @@
     <section class="clients-section">
         <div class="auto-container">
             <div class="clients-carousel owl-carousel owl-theme owl-nav-none owl-dots-none">
-                <figure class="clients-logo-box"><a href="contact-us.php"><img src="assets/images/clients/clients-logo-1.png" alt=""></a></figure>
+                <figure class="clients-logo-box"><a href="contact-us.php"><img src="assets/images/icons/logo.png" alt=""></a></figure>
                 <figure class="clients-logo-box"><a href="contact-us.php"><img src="assets/images/clients/clients-logo-2.png" alt=""></a></figure>
                 <figure class="clients-logo-box"><a href="contact-us.php"><img src="assets/images/clients/clients-logo-3.png" alt=""></a></figure>
                 <figure class="clients-logo-box"><a href="contact-us.php"><img src="assets/images/clients/clients-logo-4.png" alt=""></a></figure>

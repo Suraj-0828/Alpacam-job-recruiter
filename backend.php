@@ -4,7 +4,7 @@
 if($_SERVER['REQUEST_METHOD']=='POST')
 {
 
-            $to = 'suraj.itarsia@gmail.com';  
+            $to = 'hr@alpacam.com';  
             $subject = 'Contact Us - Form Enquiry';
 
 

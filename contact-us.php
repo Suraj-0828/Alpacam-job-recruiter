@@ -107,20 +107,20 @@
                             <div class="pt-3">
                                 <ul>
                                     <li>
-                                    <i class="fa fa-phone" style="vertical-align: middle; color: #28AA4A; font-size: 16px; margin-right: 10px; "></i><a href="tel:+9821576320" class="text-secondary"> +00-91 9967634742</a>
+                                    <i class="fa fa-phone" style="vertical-align: middle; color: #28AA4A; font-size: 16px; margin-right: 10px; "></i><a href="tel:00919967634742" class="text-secondary"> +00-91 9967634742</a>
                                     </li>
                                     <li>
-                                    <i class="fa fa-phone" style="vertical-align: middle; color: #28AA4A; font-size: 16px; margin-right: 10px; "></i><a href="tel:+9821576320" class="text-secondary"> +00-91 9819166885</a>
+                                    <i class="fa fa-phone" style="vertical-align: middle; color: #28AA4A; font-size: 16px; margin-right: 10px; "></i><a href="tel:00919819166885" class="text-secondary"> +00-91 9819166885</a>
                                     </li>
                                     <li>
-                                    <i class="fa fa-phone" style="vertical-align: middle; color: #28AA4A; font-size: 16px; margin-right: 10px; "></i><a href="tel:+9821576320" class="text-secondary"> +00-91 8452016976</a>
+                                    <i class="fa fa-phone" style="vertical-align: middle; color: #28AA4A; font-size: 16px; margin-right: 10px; "></i><a href="tel:00918452016976" class="text-secondary"> +00-91 8452016976</a>
                                     </li>
                                     <li>
                                     <i class="fa fa-envelope" style="vertical-align: middle; color: #28AA4A; font-size: 16px; margin-right: 10px; "></i><a href="mailto:hr@alpacam.com" class="text-secondary"> hr@alpacam.com</a>
                                     </li>
                                     <br>
                                     <li>
-                                    <i class="fas fa-map-marker-alt" style="vertical-align: middle; color: #28AA4A; font-size: 16px; margin-right: 10px; "></i><a class="text-secondary"> No.1201, Panorama Tower, Veera Desai Road, Andheri West, Mumbai 400 053, India.</a>
+                                    <i class="fas fa-map-marker-alt" style="vertical-align: middle; color: #28AA4A; font-size: 16px; margin-right: 10px; "></i><a class="text-secondary"> No.1201, Poonam Tower, Veera Desai Road, Andheri West, Mumbai 400 053, India.</a>
                                     </li>
                                 </ul>
                             </div>
@@ -151,7 +151,7 @@
                                         <input type="text" name="field" required="" placeholder="Field">
                                     </div>
                                     <div class="col-lg-12 col-md-12 col-sm-12 form-group">
-                                        <textarea name="message" placeholder="Write Message"></textarea>
+                                        <textarea name="message" placeholder="Write Message.."></textarea>
                                     </div>
                                     <div class="col-lg-12 col-md-12 col-sm-12 form-group message-btn">
                                         <button class="theme-btn-one" type="submit" name="submit-form">Submit</button>

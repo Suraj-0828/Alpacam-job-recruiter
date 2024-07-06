@@ -11,8 +11,8 @@
                 <div class="top-inner clearfix">
                     <ul class="info-list pull-left clearfix">
                         <li><i class="flaticon-email"></i><a href="mailto:hr@alpacam.com">hr@alpacam.com</a></li>
-                        <li><i class="flaticon-telephone"></i><a href="tel:00919967634742  ">+00-91 9967634742</a></li>
-                        <li><i class="flaticon-pin"></i></p>1201, Panorama Tower, Veera Desai Road, Andheri West, Mumbai 400 053, India.</li>
+                        <li><i class="flaticon-telephone"></i><a href="tel:00919967634742">+00-91 9967634742</a></li>
+                        <li><i class="flaticon-pin"></i></p>1201, Poonam Tower, Veera Desai Road, Andheri West, Mumbai 400 053, India.</li>
                     </ul>
                     <div class="right-column pull-right clearfix">
                         <ul class="social-links clearfix">

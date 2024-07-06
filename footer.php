@@ -66,7 +66,7 @@
                                         <h4>Address</h4>
                                     </div>
                                     <div class="widget-content">
-                                      <p class="text-light"> No.1201, Panorama Tower, Veera Desai Road, Andheri West, Mumbai 400 053, India.</p>
+                                      <p class="text-light"> No.1201, Poonam Tower, Veera Desai Road, Andheri West, Mumbai 400 053, India.</p>
                                     </div>
                                 </div>
                             </div>
